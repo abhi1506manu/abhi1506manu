@@ -5,17 +5,16 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Abhimanyu+%F0%9F%91%8B;Computer+Science+Student;Full+Stack+Developer;Blockchain+enthusiast" alt="Headline" />
     </div>
-   <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<!--    <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> -->
 <hr>
 
 ```
 I-am-abhi1506manu@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+💻 I am a self taught Full Stack Developer and Blockchain Enthusiast.
+📚 I am currently persuing Bachelors in Computer Science from GIMT Guwahati.
+🌱 I am currently learning blockchain development.
+💬 Ask me about Java and How web work.
 ```
 <hr>
 
@@ -34,7 +33,7 @@ I-am-abhi1506manu@github
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=abhi1506manu&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         
-        <br>
+        </div>
         
 <!--         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br> -->

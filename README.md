@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1506manu&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1506manu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi1506manu" alt="abhi1506manu" /></a> </p>
-
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 💬 Ask me about **How web work**
 

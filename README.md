@@ -25,24 +25,25 @@ I-am-abhi1506manu@github
 ```
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@abhiman28397655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhiman28397655" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhimanyu1506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu1506" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhi2019manu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi2019manu" height="30" width="40" /></a>
 </p>
-    <hr>
-    <div align="center">
+    <hr> -->
+   <div align="center">
     
  <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1506manu&theme=dracula&layout=compact)](https://github.com/abhi1506manu/github-readme-stats"/>
     </div>
     <br>
-    <div align=center>
+   <div align=center>
       <h1>Contribution Activity</h1>
       <img src="https://github-readme-stats.vercel.app/api?username=abhi1506manu&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
     <br>
+    </div>
+    <div align="center">
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1506manu&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-       
     </div>
 

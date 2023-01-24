@@ -28,7 +28,7 @@ I-am-abhi1506manu@github
     <div align="center">
     
  <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="400"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1506manu&theme=dracula&layout=compact)](https://github.com/abhi1506manu/github-readme-stats"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1506manu&theme=dracula&layout=compact)](https://github.com/abhi1506manu/github-readme-stats" height="300"/>
     </div>
     <br>
     <div align=center>

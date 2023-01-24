@@ -9,7 +9,7 @@
         <a href="https://www.linkedin.com/in/abhimanyu1506/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://stackoverflow.com/users/21071737/abhimanyu-kumar"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
         <a href="https://twitter.com/Abhiman28397655"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
-        <a href="https://leetcode.com/abhi2019manu/"><img src="	https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=blac" alt="LeetCode" /></a>
+        <a href="https://leetcode.com/abhi2019manu/"><img src="	https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
     </div>
    </div>
 <!--    <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> -->

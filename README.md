@@ -19,26 +19,80 @@
 I-am-abhi1506manu@github
 -------------------------
 💻 I am a self taught Full Stack Developer and Blockchain Enthusiast.
-📚 I am currently persuing my B.Tech in Computer Science from GIMT Guwahati.
-🌱 I am currently learning blockchain development.
-💬 Ask me about Java and How web work.
+📚 I have recently completed my Bachelor’s degree in Computer Science & Engineering from ASTU. 
+🌱 I am currently learning web2 and web3 tecbologies.
+🤔 I’m looking for an Internship or Full time job opportunities.
+👯 I’m looking to collaborate on web2 or web3 projects.
+💬 Ask me about Java, MERN Stack, Cryptography, Defi, Smart Contracts, NFT and Blockchain.
+📫 How to reach me **abhi2019manu@gmail.com**
 ```
 <hr>
 
-<!-- <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/@abhiman28397655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhiman28397655" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhimanyu1506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu1506" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhi2019manu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhi2019manu" height="30" width="40" /></a>
-</p>
-    <hr> -->
+<table align="center">
+<tr><td valign="top" width="33%">
+
+<h3 align="center">Language </h3>
+<div align="center">  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,solidity" />
+  </a>
+</div>
+
+</td><td align="top" width="33%">
+    
+<h3 align="center">Frontend </h3>
+<div align="center">  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  </a>
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+<h3 align="center">Backend </h3>
+<div align="center">  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  </a>
+</div>
+
+</td></tr>
+
+<tr><td valign="top" width="33%">
+
+<h3 align="center">Database </h3>
+<div align="center">  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</div>
+
+</td><td valign="top" width="33%">
+
+<h3 align="center">Tools </h3>
+<div align="center">  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  </a>
+</div>
+
+</td>
+    
+</tr>
+
+
+
+
+</table>
+
+<br/>  
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1506manu&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
 <br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi1506manu&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1506manu&theme=holi-theme">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi1506manu&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1506manu&theme=holi-theme">
 </p>

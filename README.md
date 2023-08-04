@@ -90,9 +90,10 @@ I-am-abhi1506manu@github
 <br/>  
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1506manu&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1506manu&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhi1506manu&count_private=true&show_icons=trueline_height=21&theme=github_dark">
 <br>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi1506manu&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1506manu&theme=holi-theme">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1506manu&theme=holi-theme">
 </p>

@@ -27,6 +27,8 @@ I-am-abhi1506manu@github
 📫 How to reach me **abhi2019manu@gmail.com**
 ```
 <hr>
+<h2 align="center">Tech Stack</u></h2>
+<hr>
 
 <table align="center">
 <tr><td valign="top" width="33%">

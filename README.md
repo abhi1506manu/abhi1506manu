@@ -20,8 +20,7 @@ I-am-abhi1506manu@github
 -------------------------
 💻 I am a self taught Full Stack Developer and Blockchain Enthusiast.
 📚 I have recently completed my Bachelor’s degree in Computer Science & Engineering from ASTU. 
-🌱 I am currently learning web2 and web3 tecbologies.
-🤔 I’m looking for an Internship or Full time job opportunities.
+🌱 I am currently learning web2 and web3 technologies.
 👯 I’m looking to collaborate on web2 or web3 projects.
 💬 Ask me about Java, MERN Stack, Cryptography, Defi, Smart Contracts, NFT and Blockchain.
 📫 How to reach me **abhi2019manu@gmail.com**
